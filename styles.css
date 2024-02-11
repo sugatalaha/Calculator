@@ -1,0 +1,48 @@
+body
+{
+    justify-content: center;
+    display:flex;
+    padding-right:10vw;
+    padding-left:10vw;
+}
+.box
+{
+    background-color:black;
+    height:fit-content;
+    width: 263px;
+    border:2px solid black;
+    margin-top:76px;
+    padding:5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+}
+#screen
+{   
+    background-color:white;
+    width:251px;
+    height:15vh;
+    margin:4px 4px 4px 4px;
+    border:2px solid black;
+    font-size:35px;
+    overflow:scroll;
+}
+button
+{
+    width: 59px;
+    height: 40px;
+    font-size: larger;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 10px;
+    cursor:pointer;
+}
+
+.panel
+{
+    padding-left: 8px;
+}
+
+.expand
+{
+    width: 100px;
+}
